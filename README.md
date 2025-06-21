@@ -5,8 +5,8 @@
   Hi there! 👋 I’m Ghulam Mustafa
 </h1>
 
-<h4 align="center">🌟 Final Year BS Computer Science Student<br>
-🎓 University Student | Developer | Learner</h4>
+<h4 align="center">🌟 BS Computer Scientist (2021-2025) <br>
+🎓 University of Engineering and Technology, Lahore | Developer | Learner</h4>
 
 <h6>
 I’m passionate about building modern software solutions that solve real-world problems. 
