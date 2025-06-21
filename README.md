@@ -32,15 +32,15 @@ I'm committed to learning and evolving as a developer every day.
 ### 📱 Connect with me:
 <p align="left">
 
-  <a href="https://www.linkedin.com/in/your-linkedin/" target="_blank">
+  <a href="www.linkedin.com/in/ghulam-mustafa-software-engineer" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
   </a>
 
-  <a href="https://www.facebook.com/yourprofile" target="_blank">
+  <a href="https://www.facebook.com/share/19Hxqfnc8d/" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" width="40" />
   </a>
 
-  <a href="https://www.instagram.com/yourprofile/" target="_blank">
+  <a href="https://www.instagram.com/invites/contact/?utm_source=ig_contact_invite&utm_medium=copy_link&utm_content=ov2486v" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" />
   </a>
 
