@@ -1,4 +1,5 @@
-![Banner](https://github.com/user-attachments/assets/598b6037-7090-413a-bdef-7cc06c54091b)
+![Banner](https://github.com/GM-6120/GM-6120/blob/main/1733682844599.jpeg)
+
 
 <h1 align="center" style="color: blue; font-family: Arial, sans-serif;">
   Hi there! 👋 I’m Ghulam Mustafa
